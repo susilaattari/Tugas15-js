@@ -1,3 +1,4 @@
+//Menghitung sisi miring segitiga siku siku dengan rumus phyitagoras
 let a = 8;
 let b = 6;
 let c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
